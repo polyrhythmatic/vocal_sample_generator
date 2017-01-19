@@ -1,0 +1,17 @@
+{
+  "name": "vocal_sample_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "google-translate-api": "^2.2.2",
+    "mkdirp": "^0.5.1",
+    "watson-developer-cloud": "^2.9.1"
+  }
+}
